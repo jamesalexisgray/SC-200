@@ -22,7 +22,7 @@ Microsoft Certified: Security Operations Analyst Associate Revision Guide
 | Portal / path | Microsoft Defender portal > Settings > Microsoft Defender XDR > Email notifications. Use the Incidents, Actions, and Threat analytics areas as applicable. |
 
 **What to know for the exam**
-- ncident notifications are for correlated attack cases, not for creating detections.
+- Incident notifications are for correlated attack cases, not for creating detections.
 - Action notifications relate to remediation or response activity such as AIR, isolation, quarantine, Live Response actions, and email remediation.
 - Threat Analytics notifications are intelligence-led notifications about campaigns, exposure, and recommended mitigations.
 - Recipients are normally SOC mailboxes, duty analyst groups, IR groups, or security management distribution lists.
@@ -39,3 +39,7 @@ Microsoft Certified: Security Operations Analyst Associate Revision Guide
 | Cram version | Incidents = attack cases. Actions = response/remediation. Threat Analytics = Microsoft threat intelligence updates. |
 
 ## Configure alert notifications in Microsoft Defender XDR, including tuning, suppression, and correlation
+| SC-200 | Detail |
+| --- | --- |
+| What this means | Understand the Defender for Endpoint tenant-level advanced features that enable deeper endpoint protection, integration, preview capabilities, EDR block mode, Live Response, telemetry sharing, and cross-product workflows. |
+| Portal / path | Microsoft Defender portal > Settings > Endpoints > Advanced features. |
