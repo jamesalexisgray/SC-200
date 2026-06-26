@@ -26,9 +26,11 @@ Microsoft Certified: Security Operations Analyst Associate Revision Guide
 - Action notifications relate to remediation or response activity such as AIR, isolation, quarantine, Live Response actions, and email remediation.
 - Threat Analytics notifications are intelligence-led notifications about campaigns, exposure, and recommended mitigations.
 - Recipients are normally SOC mailboxes, duty analyst groups, IR groups, or security management distribution lists.
+  
 **Key distinctions**
 - Incident notification = attack case awareness. Action notification = remediation activity awareness. Threat Analytics notification = intelligence awareness.
 - Defender XDR email notifications are not Sentinel playbooks or automation rules.
+  
 **Likely exam traps**
 - Do not choose an analytics rule when the task only asks to email someone about an existing Defender XDR incident.
 - Do not confuse Threat Analytics notifications with threat intelligence indicator ingestion.
