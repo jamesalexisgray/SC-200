@@ -6,7 +6,7 @@ Microsoft Certified: Security Operations Analyst Associate
 | Purpose | A bullet-by-bullet revision guide mapped to the SC-200 measured skills list. It is designed for efficient exam recall, not as a replacement for hands-on labs or training. |
 | How to use it | Read each objective, test whether you can explain the configuration path and operational purpose, then use the cram version for last-pass revision. |
 | Exam mindset | SC-200 usually tests which Microsoft security capability, table, rule type, connector, portal workflow, or response action fits a scenario. |
-| Source basis | Compiled from the candidate's Microsoft Learn course. Verify the official skills outline again immediately before booking the exam, as Microsoft exam objectives can change. |
+| Source basis | Compiled from the Microsoft Learn course. Verify the official skills outline again immediately before booking the exam, as Microsoft exam objectives can change. |
 
 ## Revision map
 - Manage a security operations environment: configuration, automation, Sentinel platform, ingestion, detections.
